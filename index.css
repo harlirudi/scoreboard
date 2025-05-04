@@ -1,0 +1,39 @@
+@font-face {
+    src: url("CursedTimerUlil-Aznm.ttf");
+    font-family: CursedTimer;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+    background: #1B244A;
+}
+
+.title {
+    color: whitesmoke;
+    font-size: 40px;
+    
+}
+
+.score {
+    background: #080001;
+    font-family: CursedTimer;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+}
+
+button {
+    font-family: CursedTimer;
+    font-size: 18px;
+    color: #9AABD8;
+    background: none;
+    
+}
+
